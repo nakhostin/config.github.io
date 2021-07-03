@@ -1,5 +1,7 @@
 {
-  "project_name": "fintalk",
-  "expire_date": "2021-07-20 00:00:00.000000",
-  "isExpire": "true"
+  "fintalk": {
+    "project_name": "FinTalk AI",
+    "expire_date": "2021-07-20 00:00:00.000000",
+    "isExpire": "true"
+  }
 }
